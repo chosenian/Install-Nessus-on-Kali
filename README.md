@@ -13,4 +13,4 @@ On your kali, use the web browser(firefox) to download Nessus using this <a href
 Select the appropriate linux distribution (Debian/Kali) as shown in the image below.
 
 
-<img src="
+<img src="Folder/Pic 1.jpg">
