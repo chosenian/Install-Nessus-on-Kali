@@ -9,8 +9,12 @@ Nessus scans network, servers, applications and other systems for potential weak
 
 
 <h2>Download Nessus</h2>
-On your kali, use the web browser(firefox) to download Nessus using this <a href="https://www.tenable.com/downloads/nessus"=blank>link.</a>
+On your kali, use the web browser (firefox) to download Nessus using this <a href="https://www.tenable.com/downloads/nessus"=blank>link.</a>
 Select the appropriate linux distribution (Debian/Kali) as shown in the image below.
 
 
 <img src="Folder/Pic 1.jpg">
+
+Navigate to the folder where the <strong><i>.deb file</i></strong> is located and right click inside where the file is and <b>open terminal here</b> as shown in the image below.
+
+
