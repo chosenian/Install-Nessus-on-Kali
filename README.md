@@ -22,9 +22,9 @@ Navigate to the folder where the <strong><i>.deb file</i></strong> is located an
 
 
 Once you are on the terminal, run the command <b><i>sudo dpkg -i "filename".deb</i></b> to install Nessus. (Replace filename with the name of the nessus file).
-After installing, start the nessus service by running command <b><i>systemctl start nessusd</i></b>
-Confirm if the nessus service is active by running command <b><i>systemctl status nessusd</i></b>
-Once it is active, go to the web browser in kali (firefox) and type <b><i>https://kali:8834</i></b> or directly click on the link that will be at the bottom after running the <b>start command</b> as shown below.
+<p>After installing, start the nessus service by running command <b><i>systemctl start nessusd</i></b>.</p>
+<p>Confirm if the nessus service is active by running command <b><i>systemctl status nessusd</i></b>.</p>
+<p>Once it is active, go to the web browser in kali (firefox) and type <b><i>https://kali:8834</i></b> or directly click on the link that will be at the bottom after running the <b>start command</b> as shown below.</p>
 
 
 <img src="Folder/Pic 3.jpg">
