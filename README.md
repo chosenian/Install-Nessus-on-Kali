@@ -18,3 +18,5 @@ Select the appropriate linux distribution (Debian/Kali) as shown in the image be
 Navigate to the folder where the <strong><i>.deb file</i></strong> is located and right click inside where the file is and <b>open terminal here</b> as shown in the image below.
 
 
+<img src="Folder/Pic 2.jpg">
+
